@@ -1,6 +1,9 @@
 # python-QTC
 Curso introductorio a la programación en Python para el QTC
 
+# Clases:
+* Clase 1: [Contenidos](Tutoriales/1-Introduccion.ipynb) | [Ejercicios]()
+
 # Contenidos:
 * Hello World
 * Asignación de variables
