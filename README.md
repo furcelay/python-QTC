@@ -4,6 +4,9 @@ Curso introductorio a la programación en Python para el QTC
 # Clases:
 * [Clase 1](https://colab.research.google.com/github/furcelay/python-QTC/blob/main/Tutoriales/1-Variables.ipynb)
 
+# Ejercicios
+* Usaremos la plataforma [Mimir](https://class.mimir.io/courses/5221b41ab6/registrations/new)
+
 # Contenidos:
 * Hello World
 * Asignación de variables
