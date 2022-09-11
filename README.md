@@ -2,7 +2,7 @@
 Curso introductorio a la programación en Python para el QTC
 
 # Clases:
-* [Clase 1](Tutoriales/1-Variables.ipynb)
+* [Clase 1](Tutoriales/1-Variables.ipynb)<a href="Tutoriales/1-Variables.ipynb" download>Click to Download</a>
 
 # Contenidos:
 * Hello World
