@@ -1,0 +1,5 @@
+este es un archivo muy largo
+quiero leer el archivo hasta que aparezca una palabra clave
+cuando la palabra clave miau aparece termino de leer
+lo que siga a continuación ya no será leído
+porque  usaremos un break para acabar con el loop

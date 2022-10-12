@@ -1,0 +1,4 @@
+hola mundo!
+este es un archivo de ejemplo
+lee este archivo e imprime todas sus líneas
+  abrir archivos es muy útil!  
