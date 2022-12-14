@@ -8,7 +8,7 @@ Curso introductorio a la programación en Python para el QTC
 * [Clase 3](https://colab.research.google.com/github/furcelay/python-QTC/blob/main/Tutoriales/3-loops_y_funciones.ipynb)
 * [Clase 4](https://colab.research.google.com/github/furcelay/python-QTC/blob/main/Tutoriales/4-strings_y_listas.ipynb)
 * [Clase 5](https://colab.research.google.com/github/furcelay/python-QTC/blob/main/Tutoriales/5-archivos.ipynb)
-* [Clase 6 - Resumen]](https://colab.research.google.com/github/furcelay/python-QTC/blob/main/Tutoriales/6-resumen.ipynb)
+* [Clase 6 - Resumen]](https://colab.research.google.com/github/furcelay/python-QTC/blob/main/Tutoriales/6-Resumen.ipynb)
 
 # Ejercicios
 * Usaremos la plataforma [Coding Rooms](https://app.codingrooms.com/app/?joinCode=C-FJBefUH)
